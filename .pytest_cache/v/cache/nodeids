@@ -1,0 +1,22 @@
+[
+  "tests/test_csv_processing.py::TestCsvProcessing::test_aggregate_data[price=avg-expected0]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_aggregate_data[price=max-expected3]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_aggregate_data[rating=avg-expected2]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_aggregate_data[rating=min-expected1]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_aggregate_data_invalid_aggregate",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_csv_content",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_filter_data[brand=Ford-expected3]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_filter_data[name=Civic-expected0]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_filter_data[price>10000-expected1]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_filter_data[rating<5-expected2]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_filter_data_invalid_filter",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_filter_data_no_matching_records",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_open_csv_invalid",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_order_by_data[brand=asc-expected1]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_order_by_data[price=desc-expected0]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_order_by_data_invalid_order_by",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_parse_condition[price=avg-=-expected0]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_parse_condition[price=min-=-expected3]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_parse_condition[rating=desc-=-expected1]",
+  "tests/test_csv_processing.py::TestCsvProcessing::test_parse_condition[rating>1000->-expected2]"
+]
